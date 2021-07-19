@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
+    "start": "webpack-dev-server --mode development --open --hot --fix",
     "build": "webpack --mode production",
-    "lint": "eslint src/"
+    "lint": "eslint src/ --fix"
   },
   "husky": {
   "hooks": {
