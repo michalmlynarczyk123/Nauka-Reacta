@@ -1,1 +1,1 @@
-https://git.heroku.com/myfirstreactappmm.git
+https://myfirstreactappmm.herokuapp.com/
